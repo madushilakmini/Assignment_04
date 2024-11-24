@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import animals from "../data/AnimalsDb";
+import animals from "../data/AnimalDb";
 import "../assets/css/GameStyles.css";
 
 export default function Game() {

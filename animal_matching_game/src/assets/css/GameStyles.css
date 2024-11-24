@@ -62,7 +62,7 @@
   
   .animal-grid
   {
-     background-color: rgb(97, 167, 241); 
+     background-color: rgb(155, 197, 243); 
     
   }
   
@@ -86,8 +86,8 @@
   
   .animal-card:hover {
     transform: scale(1.1);
-    border: 2px solid orange;
-    border-color: orange;
+    border: 2px solid rgb(224, 155, 26);
+    border-color: rgb(224, 155, 26);
   }
   
   
